@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="skip">Skip</string>
+    <string name="appLogoName">Fixtrocina</string>
+    <string name="explainTitle">Schedule the time</string>
+    <string name="progress">2/3</string>
+    <string name="nextButton">Next</string>
+    <string name="explaincontent">Determine the exact time between you and the techician as needed</string>
+</resources>

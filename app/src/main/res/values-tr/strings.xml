@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="skip">Geç</string>
+    <string name="appLogoName">Fixtrocina</string>
+    <string name="explainTitle">Zamanını Planla</string>
+    <string name="progress">2/3</string>
+    <string name="nextButton">Sıradaki</string>
+    <string name="explaincontent">Gerektiğinde teknisyenle aranızdaki kesin süreyi belirleyin</string>
+</resources>
